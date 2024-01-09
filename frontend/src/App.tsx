@@ -1,12 +1,12 @@
 import "./App.css";
-import MansonryGrid from "./components/MansonryGrid";
+import MasonryGrid from "./components/MasonryGrid";
 import Navbar from "./components/navbar";
 
 function App() {
   return (
     <>
       <Navbar />
-      <MansonryGrid />
+      <MasonryGrid/>
     </>
   );
 }
